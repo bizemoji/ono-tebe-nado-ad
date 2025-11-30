@@ -30,7 +30,7 @@
 .header__logo {
   width: 148px;
   height: 105px;
-  margin-left: 36.52px;
+  margin-left: 30px;
 }
 
 .header__address {
@@ -81,7 +81,7 @@
 .aligned-text_center {
   text-align: center;
   line-height: 100%;
-  padding: 20px 60px 20px 0;
+  padding: 20px 80px 30px 0;
 }
 
 .aligned-text_right {
@@ -123,7 +123,7 @@
 .lots {
   display: flex;
   flex-direction: column;
-  padding: 180px 30px 170px;
+  padding: 180px 30px 155px;
 } 
 
 .lots__heading {
