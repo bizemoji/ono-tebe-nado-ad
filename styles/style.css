@@ -123,7 +123,7 @@
 .lots {
   display: flex;
   flex-direction: column;
-  padding: 180px 30px 181px;
+  padding: 180px 30px 170px;
 } 
 
 .lots__heading {
@@ -217,7 +217,7 @@
 .about {
   display: grid;
   grid-template-columns: 300px auto;
-  padding: 0 50px 180px 50px;
+  padding: 0 50px 150px 50px;
   gap: 40px;
   justify-items: center;
 }
